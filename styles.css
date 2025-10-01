@@ -14,6 +14,7 @@ body {
     color: #ffffff;
     background: #0a0a0a;
     overflow-x: hidden;
+    padding: 0 2rem;
 }
 
 .container {
@@ -1401,4 +1402,5 @@ section#n-ev:target ~ header .nav-link[href="#n-ev"]::after {
 .comparison-section .table-comparison,
 .comparison-section .cards-comparison {
     animation-delay: 0.3s;
+
 }
